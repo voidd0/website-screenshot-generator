@@ -1,0 +1,21 @@
+[
+  {
+    "index": 0,
+    "file_url": "https://api.apify.com/v2/key-value-stores/LqTDdcQS8PgkubKvV/records/result-001-screenshot.png?signature=VtU9nHH9mOQRCopF7wsF",
+    "file_key": "result-001-screenshot.png",
+    "filename": "screenshot.png",
+    "mime": "image/png",
+    "bytes": 71152,
+    "width": 1280,
+    "height": 800,
+    "format": "png",
+    "final_url": "https://example.com/",
+    "http_status": 200,
+    "title": "Example Domain",
+    "load_state": "networkidle",
+    "truncated": false,
+    "blocked_requests": 0,
+    "credits": 3,
+    "ms": 2044
+  }
+]
